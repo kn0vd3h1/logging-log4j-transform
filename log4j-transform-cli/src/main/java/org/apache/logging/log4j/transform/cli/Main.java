@@ -26,7 +26,7 @@ import picocli.CommandLine.Command;
         subcommands = ConfigurationFileCommands.class,
         versionProvider = Main.VersionProvider.class)
 public final class Main {
-
+    // This is a test comment
     public static void main(final String[] args) {
         System.exit(new CommandLine(Main.class).execute(args));
     }

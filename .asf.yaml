@@ -25,6 +25,7 @@
 # 3. Forward `dependabot` PRs to `robots@`
 #
 # Note that `notifications` are merged with the defaults accessible from: https://gitbox.apache.org/schemes.cgi?logging-log4j-transform
+# This is a test comment
 notifications:
   commits: commits@logging.apache.org
   issues: notifications@logging.apache.org

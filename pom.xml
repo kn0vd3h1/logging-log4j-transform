@@ -38,7 +38,7 @@
   <artifactId>log4j-transform-bom</artifactId>
   <version>${revision}</version>
   <packaging>pom</packaging>
-
+  <!-- This is a test comment -->
   <url>https://logging.apache.org/log4j/transform</url>
 
   <inceptionYear>2022</inceptionYear>
